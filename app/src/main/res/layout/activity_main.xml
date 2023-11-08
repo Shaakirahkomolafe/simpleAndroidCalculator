@@ -17,8 +17,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text=" "
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
+        android:id="@+id/result"
         android:layout_marginLeft="10dp"
         android:layout_marginBottom="50dp"
         app:layout_constraintStart_toStartOf="parent"
@@ -188,6 +187,7 @@
     android:layout_gravity="center"
     android:layout_marginTop="10dp"
     android:text="@string/advance"
+    android:id="@+id/advance"
     >
 
 
