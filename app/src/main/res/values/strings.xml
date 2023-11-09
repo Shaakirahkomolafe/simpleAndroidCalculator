@@ -18,5 +18,5 @@
     <string name="equal">=</string>
     <string name="advance">ADVANCE - WITH HISTORY</string>
     <string name="display">"9 / 2 + 1 = 5</string>
-
+    <string name="noHistory">No history available</string>
 </resources>
